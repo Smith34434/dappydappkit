@@ -1,19 +1,54 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of gaming technology with this quiz.",
   "questions": [
+    {
+      "question": "What is VR?",
+      "answers": ["Virtual", "Visual", "Vivid"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is GPU?",
+      "answers": ["Graphics", "Game", "General"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is HDMI?",
+      "answers": ["Interface", "Input", "Insider"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is FPS?",
+      "answers": ["Frames", "First", "Fast"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is SSD?",
+      "answers": ["Drive", "Disk", "Data"],
+      "correctAnswerIndex": 0
+    },
     {
       "question": "What is RAM?",
       "answers": ["Memory", "CPU", "Cache"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What is CPU?",
+      "answers": ["Processor", "Core", "Central"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What is HDMI used for?",
+      "answers": ["Video", "Audio", "Data"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is AR?",
+      "answers": ["Augmented", "Artificial", "Audio"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is V-Sync?",
+      "answers": ["Sync", "Video", "View"],
       "correctAnswerIndex": 0
     }
   ]
